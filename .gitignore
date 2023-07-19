@@ -7,6 +7,7 @@
 
 # testing
 /coverage
+/service-account.json
 
 # next.js
 /.next/
